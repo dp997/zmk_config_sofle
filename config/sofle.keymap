@@ -80,7 +80,7 @@
 &out OUT_TOG     &kp INS       &kp PSCRN     &kp K_CMENU   &trans        &trans                                        &kp PG_UP  &trans    &trans  &trans     &kp N0   &trans
 &rgb_ug RGB_BRI  &kp LALT      &kp LCTRL     &kp LSHFT     &trans        &kp CLCK                                      &kp LEFT   &kp DOWN  &kp UP  &kp RIGHT  &kp DEL  &kp BSPC
 &rgb_ug RGB_BRD  &kp K_UNDO    &kp K_CUT     &kp K_COPY    &kp K_PASTE   &trans        &ext_power EP_TOG    &trans     &trans     &trans    &trans  &trans     &trans   &trans
-                               &kp LEFT_WIN  &trans        &trans        &trans        &kp ENTER            &kp ENTER  &trans     &trans    &trans  &trans
+                               &kp LEFT_WIN  &kp LALT      &kp LCTRL     &trans        &kp ENTER            &kp ENTER  &trans     &trans    &trans  &trans
             >;
 
             sensor-bindings =
